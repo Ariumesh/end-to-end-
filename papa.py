@@ -1,8 +1,8 @@
 # An empty  l2ist
-empty_list = []
+empty_list = [1,2,3,4,]
 
 # A list with initial values
-<<<<<<< HEAD
+<<<<<<< HEAiD
 numbers = [1, 2, 3, 44,4,4,4, 5]
 =======
 numbers = [1, 2, 3, 4, 5,5,6,7]
