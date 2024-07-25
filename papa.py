@@ -1,6 +1,6 @@
 # An empty  l2ist
 <<<<<<< HEAD
-empty_list = [1,2,,2,3,33]
+empty_list = [1,8,7,33]
 =======
 empty_list = [1,2,3,4,]
 >>>>>>> origin/branch-1
